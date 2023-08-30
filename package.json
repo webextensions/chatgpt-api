@@ -1,0 +1,20 @@
+{
+    "name": "chatgpt-api",
+    "version": "1.0.0",
+    "description": "Experiments with ChatGPT API",
+    "main": "index.js",
+    "scripts": {
+        "start": "./index.ts",
+        "test": "echo \"Warning: No tests specified\""
+    },
+    "keywords": [],
+    "author": "Priyank Parashar",
+    "dependencies": {
+        "dotenv": "^16.3.1",
+        "eslint": "^8.48.0",
+        "openai": "^4.3.1"
+    },
+    "devDependencies": {
+        "tsx": "^3.12.7"
+    }
+}
