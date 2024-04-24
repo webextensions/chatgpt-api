@@ -10,11 +10,11 @@
     "keywords": [],
     "author": "Priyank Parashar",
     "dependencies": {
-        "dotenv": "^16.3.1",
-        "eslint": "^8.56.0",
-        "openai": "^4.24.0"
+        "dotenv": "^16.4.5",
+        "eslint": "=8.57.0",
+        "openai": "^4.38.3"
     },
     "devDependencies": {
-        "tsx": "^4.7.0"
+        "tsx": "^4.7.2"
     }
 }
